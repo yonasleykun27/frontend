@@ -1,5 +1,7 @@
 # Professional Task Manager  
 
+![Task Manager Preview](./public/task.png) 
+
 A modern task management app built with **React + TypeScript + Tailwind CSS**, featuring localStorage persistence for your tasks.  
 
 ## ✨ Features  
