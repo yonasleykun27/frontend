@@ -23,4 +23,4 @@ A modern task management application built with React, TypeScript, and Tailwind 
 1. Clone the repository:
 ```bash
 git clone https://github.com/yonasleykun27/frontend.git
-cd task-manager
+cd frontend
