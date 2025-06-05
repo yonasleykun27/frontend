@@ -75,5 +75,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Yonas Leykun  - yonasleykun27@gmail.com
 
-Project Link: [https://github.com/your-username/task-manager]( https://github.com/yonasleykun27/frontend.git) 
-```
+Project Link: [ https://github.com/yonasleykun27/frontend.git]( https://github.com/yonasleykun27/frontend.git) 
