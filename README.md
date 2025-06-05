@@ -20,8 +20,8 @@ A beautiful and functional task management application built with React, TypeScr
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/task-manager.git
-cd task-manager
+git clone https://github.com/yonasleykun27/frontend.git
+cd frontend
 ```
 
 2. Install dependencies
