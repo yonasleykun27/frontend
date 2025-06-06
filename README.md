@@ -1,6 +1,6 @@
 # Professional Task Manager  
 
-![Task Manager Preview](./public/task.png) 
+![Task Manager Preview](./public/task.png)  
 
 A modern task management app built with **React + TypeScript + Tailwind CSS**, featuring localStorage persistence for your tasks.  
 
@@ -12,6 +12,9 @@ A modern task management app built with **React + TypeScript + Tailwind CSS**, f
 - **Progress tracking** with visual percentage bar 📊  
 - **Responsive design** (works on mobile & desktop) 📱  
 - **Auto-saves** tasks using `localStorage` 💾  
+
+## 🌐 Live Demo  
+🚀 Try it now: [https://yonastaskmanager.netlify.app/](https://yonastaskmanager.netlify.app/)  
 
 ## 🚀 Quick Start  
 
